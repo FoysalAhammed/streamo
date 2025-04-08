@@ -228,7 +228,7 @@ const Footer = () => {
               </p>
               <span className="hidden sm:inline text-gray-700">|</span>
               <a 
-                href="https://webbytestudio.unaux.com/"
+                href="https://www.linkedin.com/in/foysal-ahammedcse/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-green-400 text-sm transition-colors"
