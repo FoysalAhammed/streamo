@@ -224,7 +224,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex flex-col sm:flex-row items-center space-y-2 sm:space-y-0 sm:space-x-4 mb-4 md:mb-0">
               <p className="text-gray-400 text-sm">
-                &copy; {currentYear} Streamo Digital. All rights reserved.
+                &copy; {currentYear} Streamo Digital. All rights reserved by Foysal Ahammed.
               </p>
               <span className="hidden sm:inline text-gray-700">|</span>
               <a 
